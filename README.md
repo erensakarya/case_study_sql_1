@@ -4,7 +4,7 @@
 
 ## Requirements:
 - an SQL database (e.g. https://www.postgresql.org/download/)
-### **I preferred using MySQL with Docker and Impala**
+### **I preferred using MySQL with Docker and Impala.**
 ### **You can find the Docker installation documents in the "docker_mysql_installation.txt" document.**
 
 
