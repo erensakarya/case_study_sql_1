@@ -18,12 +18,14 @@
 1. Of the teams who have won at least 70 games in the year 2010, how many of
 them have changed at least their managers once during the same year, and
 what is the teamID for each team?
+
 Sample answer:
 5 teams: SFN,SLN,TBA,TEX,TOR
 
 2. What are the playerIDs for each teamID mentioned above?
 Let's say there are 3 teams, and each team changes their managers 3x, then
 there are 3*3. Separate the answer by ":" and ","
+
 Sample answer:
 KCA : coxbo01, trembda99, francte01
 LAA : yostne01, bakerdu01, tracyji01
